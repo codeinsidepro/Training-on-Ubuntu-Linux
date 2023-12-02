@@ -12,8 +12,8 @@ This repository serves as a comprehensive guide and resource hub for mastering U
 
 **3. Code Samples and Scripts:**
    A collection of code snippets, shell scripts, and automation examples tailored to Ubuntu Linux. These resources help users understand scripting, automation, and efficient system management techniques.
-**
-4. Documentation:**
+
+**4. Documentation:**
    Comprehensive documentation detailing Ubuntu-specific commands, configurations, best practices, and troubleshooting guides. This documentation aims to serve as a quick reference for users navigating through different Ubuntu functionalities.
 
 **5. Community Contributions:**
